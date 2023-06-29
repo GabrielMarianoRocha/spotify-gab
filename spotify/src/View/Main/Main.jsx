@@ -1,9 +1,8 @@
 import "./Main.css";
-import { useEffect, useCallback } from "react";
 
 const Main = () => {
     return (
-        <h1>TESTEE DEVELOP</h1>
+        <h1>TESTEE DEVELOPe</h1>
     );
 }
 
